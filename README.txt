@@ -23,7 +23,7 @@ Features:-
 
 bash
 Copy code:-
-  git clone https://github.com/your-username/SnakeGame.git
+  git clone git@github.com:Hetul9067/snake_game_Java.git
 Open in IDE:
 Import the project into your preferred Java IDE.
 
